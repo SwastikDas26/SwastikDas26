@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dasswastik846@gmail.com**
 
-- ⚡ Fun fact **I Game a Lot**
+- ⚡ Fun fact: **I Game a Lot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
