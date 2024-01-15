@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 💬 Ask me about **react, TailwindCSS, next.js**
+- 💬 Ask me about **C, C++, OOPS, react, TailwindCSS**
 
 - 📫 How to reach me **dasswastik846@gmail.com**
 
