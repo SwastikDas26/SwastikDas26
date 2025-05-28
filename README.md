@@ -25,6 +25,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swastikdas26&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="swastikdas26" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swastikdas26&theme=midnight-purple&include_all_commits=true&show_icons=true&locale=en" alt="swastikdas26" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swastikdas26&theme=midnight-purple" alt="swastikdas26" /></p>
