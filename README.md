@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swastik Das</h1>
-<h3 align="center">A passionate frontend developer from India, aspire to be a Software Developer</h3>
+<h3 align="center">A passionate frontend developer from India, Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastikdas26&label=Profile%20views&color=0e75b6&style=flat" alt="swastikdas26" /> </p>
 
